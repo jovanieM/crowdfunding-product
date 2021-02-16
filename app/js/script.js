@@ -1,0 +1,1 @@
+consone.console.log('hello world');
